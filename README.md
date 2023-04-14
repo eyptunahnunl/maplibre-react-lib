@@ -1,5 +1,6 @@
 
-## Maplibre-React-Library
+## Maplibre-React-Library
+
 In this project, my goal will be to write the Maplibre library, which is an npm package, as react components.
 
 ## Notes
